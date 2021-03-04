@@ -1,0 +1,12 @@
+{
+  "version": "0.1",
+  "name": "Web Time wrapper example",
+  "description": "A sample MDN app that uses getUserMedia and and canvas for implement time wrapper filter.",
+  "launch_path": "/index.html",
+  "permissions": {
+    "audio-capture": {
+      "description": "Required to capture audio via getUserMedia"
+    }
+  },
+  "orientation": "portrait"
+}
